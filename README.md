@@ -23,7 +23,9 @@ docker pull tungatkarniranjan/akatsukiserver
 OR
 Clone this repository 
 git clone https://github.com/niranjantungatkar/Code-Breaker.git
+
 cd directory-name
+
 docker build -t tag-for-your-image .
 
 Step 2:
